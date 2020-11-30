@@ -1,5 +1,9 @@
 ### Hi there 👋
-<img height="400px" src="https://github.com/mcmelissa/images/blob/master/template.png?raw=true">
+<img height="200px" src="https://github.com/mcmelissa/images/blob/master/template.png?raw=true">
+<p>Passionate about IT and programming.</p>
+<p>Special skills for graphic presentation, UI and visual elements.</p>
+<p>I strongly believe in teamwork.</>
+
 <!--
 **mcmelissa/mcmelissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
