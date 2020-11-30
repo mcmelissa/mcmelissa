@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img height="200px" src="https://github.com/mcmelissa/images/blob/master/template.png?raw=true">
+<img align="right" src="https://github.com/mcmelissa/images/blob/master/template2.png?raw=true">
 <p>Passionate about IT and programming.</p>
 <p>Special skills for graphic presentation, UI and visual elements.</p>
 <p>I strongly believe in teamwork.</>
